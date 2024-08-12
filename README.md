@@ -2,7 +2,7 @@
 - 👀 I’m interested in music, insects, Arduino.
 - 🌱 I’m currently learning coding.
 - 💞️ I’m looking to collaborate on web-development projects. 
-- 📫 How to reach me: send to me a Mail with the mail https://msbaraka.github.io/Curriculumvitae/. 
+
 
 <!---
 MSBARAKA/MSBARAKA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
