@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MSBARAKA
 - 👀 I’m interested in music, insects, Arduino.
-- 🌱 I’m currently learning coding.
-- 💞️ I’m looking to collaborate on web-development projects. 
+
 
 
 <!---
